@@ -88,7 +88,8 @@ HTML code:
 </html>
 ```
 CSS code:
-```body {
+```
+body {
     font-family: Arial, sans-serif;
     font-size: 20px;
     margin: 0;
